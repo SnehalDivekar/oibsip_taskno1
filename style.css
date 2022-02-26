@@ -1,0 +1,50 @@
+.container{
+    text-align: center;  
+    margin-top:23px
+    
+}
+
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 15px;
+    border: 5px solid #070404;
+     font-size:35px;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Lobster', cursive;
+   font-family: 'Orbitron', sans-serif;
+    height: 100px;
+    width: 290px;
+    background-color: #38f038;
+    color: rgb(0, 0, 0);
+}
+
+
+button {
+    border-radius: 15px;
+    font-size: 30px;
+    background: #070203;
+    width: 70px;
+    height: 70px;
+    spacing: 4px;
+    color: white;
+    
+    
+}
+.calculator td.button C{
+    background-color: #45f045;
+}
+
+
+.calculator{ 
+    border: 4px solid #010303;
+    background-color: #252927;
+    padding: 17px;
+    border-radius: 40px;
+    display: inline-block;
+    
+}
+
